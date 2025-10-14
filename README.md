@@ -108,11 +108,32 @@ TEMPERATURE=0.7
 
 ### 5. Run the Application
 
+#### 🎯 Easy Ways to Start the Server:
+
+**Option 1: Use the convenience scripts (Recommended)**
+
 ```bash
-python app.py
+# On macOS/Linux:
+./start-server.sh
+
+# On Windows:
+start-server.bat
+
+# Or use the Python runner (works on all platforms):
+python3 run-server.py
 ```
 
-The application will start on `http://localhost:5000`
+**Option 2: Manual startup**
+
+```bash
+# If port 5000 is busy (common on macOS), use a different port:
+PORT=5001 python3 app.py
+
+# Or the standard way:
+python3 app.py
+```
+
+The application will start and automatically find an available port (usually `http://localhost:5001` on macOS)
 
 You should see output like:
 ```
